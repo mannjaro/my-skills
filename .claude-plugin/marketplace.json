@@ -1,0 +1,13 @@
+{
+  "name": "my-plugins",
+  "owner": {
+    "name": "mannjaro"
+  },
+  "plugins": [
+    {
+      "name": "interview-skill",
+      "source": "./skills/interview",
+      "description": "Adds a /interview command for asking users about their needs"
+    }
+  ]
+}
